@@ -16,4 +16,5 @@ class DiaryLayout: UICollectionViewFlowLayout {
         self.minimumInteritemSpacing = 0.0
         self.minimumLineSpacing = 0
     }
+    let a = 2
 }
